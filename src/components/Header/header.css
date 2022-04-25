@@ -1,0 +1,23 @@
+.header{
+    padding: 15px; background-color: #3863f0
+}
+
+.title{
+    font-style: italic; 
+    font-size: 14px; 
+    color: white
+}
+
+.wrapper-currency{
+    flex-direction: row; 
+    justify-content: space-between; 
+    display: flex; 
+    align-items: center;
+    margin-top: 10px
+}
+
+.text-currency{
+    font-size: 16px; 
+    font-weight: 600; 
+    color: white
+}

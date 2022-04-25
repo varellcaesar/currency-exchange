@@ -1,0 +1,1 @@
+export const API_URL='http://api.exchangeratesapi.io/v1/latest?access_key=cdc6adbb7efadd7facc9536abbdb0364'

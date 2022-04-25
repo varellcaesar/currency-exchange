@@ -1,0 +1,19 @@
+.wrappers {
+    background-color: #f56b57; 
+    border-radius: 25px; 
+    margin: 0 10px; 
+    padding: 5px 10px 5px 20px; 
+    cursor: pointer; 
+    justify-content: center; 
+    flex-direction: row; 
+    align-items: center; 
+    display:flex
+}
+
+.text-buttons{
+    text-align:center; 
+    line-height: 25px; 
+    text-transform: uppercase; 
+    color: white; 
+    font-weight: bold
+}
